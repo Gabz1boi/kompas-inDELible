@@ -8,47 +8,6 @@ Prototype mobile-first yang membantu anak:
 
 Web ini sengaja tidak memiliki login, database, unggah bukti, deteksi otomatis, atau chatbot yang berpura-pura menjadi konselor.
 
-## Menjalankan di VS Code
-
-### Cara paling cepat
-
-Buka folder proyek, lalu buka `index.html` dengan ekstensi **Live Server**.
-
-### Melalui terminal
-
-Pastikan Node.js tersedia, kemudian jalankan server lokal tanpa dependensi tambahan:
-
-```bash
-npm run dev
-```
-
-Buka alamat yang tampil di terminal, biasanya `http://localhost:3000`.
-
-## Struktur proyek
-
-```text
-kompas-digital-web/
-├── assets/
-│   └── favicon.svg
-├── preview/
-│   ├── 01-beranda-mobile.png
-│   ├── 02-hasil-risiko.png
-│   ├── 03-ringkasan-pendamping.png
-│   ├── 04-klinik-privasi.png
-│   └── 05-laboratorium-verifikasi.png
-├── index.html
-├── styles.css
-├── app.js
-├── manifest.webmanifest
-├── sw.js
-├── vercel.json
-├── package.json
-├── server.mjs
-├── README.md
-├── DEPLOY-VERCEL.md
-└── SKENARIO-DEMO.md
-```
-
 ## Alur utama demo
 
 ```text
