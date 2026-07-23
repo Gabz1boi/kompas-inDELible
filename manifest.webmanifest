@@ -1,0 +1,18 @@
+{
+  "name": "KOMPAS Digital",
+  "short_name": "KOMPAS",
+  "description": "Temukan arah aman di dunia digital.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#12304a",
+  "lang": "id-ID",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kompas-digital-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prototype mobile-first Pos KOMPAS Digital untuk pitching inovasi.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "preview": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
